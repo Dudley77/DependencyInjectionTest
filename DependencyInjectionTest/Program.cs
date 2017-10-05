@@ -18,7 +18,7 @@ namespace DependencyInjectionTest
             container.LoadConfiguration();
             fun = container.Resolve<IFun>();
 
-            //Test
+            //Testttttttt
             //Test2
             Console.WriteLine("Name: " + fun.Name.ToString());
             Console.WriteLine("Age: " + fun.Age.ToString());
